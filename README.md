@@ -19,7 +19,7 @@ Meu maior projeto até agora foi o **ExpoDesign**, uma plataforma web para expor
 ### 📫 Como me encontrar
 
 - LinkedIn: [linkedin.com/in/ilaryssasantos](https://www.linkedin.com/in/ilaryssasantos/)
-- GitHub: [github.com/ilaryssa](github.com/ilaryssa)
+- GitHub: [github.com/ilaryssa](HTTPS://www.github.com/ilaryssa)
 - Instagram: [@laryssadsigner](https://www.instagram.com/laryssadsigner/)
 
 ---
