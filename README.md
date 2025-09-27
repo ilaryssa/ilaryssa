@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👩‍💻✨ Olá! Eu sou Laryssa Santos
 
-<!--
-**ilaryssa/ilaryssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** 🎓 Estudante de Design Digital | 💻 Explorando desenvolvimento web e mobile 
 
-Here are some ideas to get you started:
+Sou estudante de **Design Digital**, com interesse em unir **programação** e **design** para criar experiências digitais criativas e funcionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu maior projeto até agora foi o **ExpoDesign**, uma plataforma web para expor os trabalhos do curso de Design Digital, desenvolvida com **React.js, HTML, css, Firebase e Supabase**.
+
+---
+
+### 🚀 O que estou fazendo atualmente
+
+- 🌱 Aprendendo e praticando **desenvolvimento web e mobile** (React, React Native, JS, HTML, CSS)
+- 🎨 Aprimorando prototipação digital e interfaces visuais
+- 💡 Criando projetos que conectam design e tecnologia para gerar impacto
+
+---
+
+### 📫 Como me encontrar
+
+- LinkedIn: [linkedin.com/in/ilaryssasantos](https://www.linkedin.com/in/ilaryssasantos/)
+- GitHub: [github.com/ilaryssa](github.com/ilaryssa)
+- Instagram: [@laryssadsigner](https://www.instagram.com/laryssadsigner/)
+
+---
+
+### ✨ Curiosidades
+
+- 🎮 Gosto de jogar nas horas vagas
+- 🎨 Exploro a criatividade em design gráfico e modelagem 3D
+- 📚 Tenho sempre interesse em aprender algo novo
+- 🐈 Vivo com dois gatos laranja
+
+---
+
+Espero te ver por aí em alguma outra galáxia! 🚀👾
