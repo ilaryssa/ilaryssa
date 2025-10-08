@@ -1,8 +1,8 @@
 ## 👩‍💻✨ Olá! Eu sou Laryssa Santos
 
-** 🎓 Estudante de Design Digital | 💻 Explorando desenvolvimento web e mobile 
+### **🎓 Estudante de Design Digital | 💻 Explorando desenvolvimento web e mobile**
 
-Sou estudante de **Design Digital**, com interesse em unir **programação** e **design** para criar experiências digitais criativas e funcionais.
+Tenho interesse em unir **programação** e **design** para criar experiências digitais criativas e funcionais.
 
 Meu maior projeto até agora foi o **ExpoDesign**, uma plataforma web para expor os trabalhos do curso de Design Digital, desenvolvida com **React.js, HTML, css, Firebase e Supabase**.
 
@@ -33,4 +33,4 @@ Meu maior projeto até agora foi o **ExpoDesign**, uma plataforma web para expor
 
 ---
 
-Espero te ver por aí em alguma outra galáxia! 🚀👾
+Te vejo por aí em alguma outra galáxia! 🚀👾
